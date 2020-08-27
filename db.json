@@ -1,12 +1,12 @@
 {
   "categories": [
     {
-      id: 1,
-      title: "hello",
-      items: [
+      "id": 1,
+      "title": "hello",
+      "items": [
         {
-          id: 1,
-          title: "item 1"
+          "id": 1,
+          "title": "item 1"
         }
       ]
     }
