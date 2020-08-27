@@ -3,22 +3,26 @@
     "1": {
       "id": 1,
       "title": "1",
-      "items": [
-        {
+      "items": {
+        "1": {
           "id": 1,
           "title": "item 1"
+        },
+        "2": {
+          "id": 2,
+          "title": "item 2"
         }
-      ]
+    }
     },
     "2": {
       "id": 2,
       "title": "2",
-      "items": [
-        {
-          "id": 1,
-          "title": "item 1"
+      "items": {
+        "3": {
+          "id": 3,
+          "title": "item 3"
         }
-      ]
+      }
     }
   },
   "items": {
@@ -29,6 +33,10 @@
     "2": {
       "id": 2,
       "title": "item 2"
+    },
+    "3": {
+      "id": 3,
+      "title": "item 3"
     }
   }
 }
