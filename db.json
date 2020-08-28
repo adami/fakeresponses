@@ -3,6 +3,8 @@
     {
       "id": 1,
       "title": "Hiking",
+      "subtitle": "Hiking subtitle",
+      "imageThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgXQBwlHdxT9O92lyr4tJaByT7eS1uadApeA&usqp=CAU"
       "items": [
         {
           "id": 1,
@@ -17,6 +19,8 @@
     {
       "id": 2,
       "title": "Boating",
+      "subtitle": "Boating subtitle",
+      "imageThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgXQBwlHdxT9O92lyr4tJaByT7eS1uadApeA&usqp=CAU"
       "items": [
         {
           "id": 3,
