@@ -30,19 +30,22 @@
       "id": 1,
       "title": "Trip 1",
       "subtitle": "A trip to the mountains",
-      "shortDescription": "A lovely trip to see the mountains"
+      "shortDescription": "A lovely trip to see the mountains",
+      "longDescription": "A long lovely trip to see the mountains"
     },
     {
       "id": 2,
       "title": "Trip 2",
       "subtitle": "A trip to the lakes",
-      "shortDescription": "A lovely trip to see the lakes"
+      "shortDescription": "A lovely trip to see the lakes",
+      "longDescription": "A long lovely trip to see the lakes"
     },
     {
       "id": 3,
       "title": "Trip 1",
       "subtitle": "A trip to the caves",
-      "shortDescription": "A lovely trip to see the caves"
+      "shortDescription": "A lovely trip to see the caves",
+      "longDescription": "A long lovely trip to see the caves"
     }
   ]
 }
