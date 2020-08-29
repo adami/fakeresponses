@@ -55,7 +55,21 @@
       "longDescription": "A long lovely trip to see the mountains",
       "imageThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgXQBwlHdxT9O92lyr4tJaByT7eS1uadApeA&usqp=CAU",
       "price": 10,
-      "currency": "$"
+      "currency": "$",
+      "images": [
+        {
+          "original": 'https://picsum.photos/id/1018/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1018/250/150/',
+        },
+        {
+          "original": 'https://picsum.photos/id/1015/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1015/250/150/',
+        },
+        {
+          "original": 'https://picsum.photos/id/1019/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1019/250/150/',
+        },
+      ]
     },
     {
       "id": 2,
@@ -64,7 +78,21 @@
       "shortDescription": "A lovely trip to see the lakes",
       "longDescription": "A long lovely trip to see the lakes",
       "imageThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgXQBwlHdxT9O92lyr4tJaByT7eS1uadApeA&usqp=CAU",
-      "showAsFree": true
+      "showAsFree": true,
+      "images": [
+        {
+          "original": 'https://picsum.photos/id/1018/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1018/250/150/',
+        },
+        {
+          "original": 'https://picsum.photos/id/1015/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1015/250/150/',
+        },
+        {
+          "original": 'https://picsum.photos/id/1019/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1019/250/150/',
+        },
+      ]
     },
     {
       "id": 3,
@@ -74,7 +102,21 @@
       "longDescription": "A long lovely trip to see the caves",
       "imageThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgXQBwlHdxT9O92lyr4tJaByT7eS1uadApeA&usqp=CAU",
       "price": 5,
-      "currency": "$"
+      "currency": "$",
+      "images": [
+        {
+          "original": 'https://picsum.photos/id/1018/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1018/250/150/',
+        },
+        {
+          "original": 'https://picsum.photos/id/1015/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1015/250/150/',
+        },
+        {
+          "original": 'https://picsum.photos/id/1019/1000/600/',
+          "thumbnail": 'https://picsum.photos/id/1019/250/150/',
+        },
+      ]
     }
   ]
 }
